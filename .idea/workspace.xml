@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87b1631e-29d2-489c-963c-42cd272531d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Control_stmts/DemoElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Control_stmts/Demo_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Control_stmts/Demo_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Loop/Demo_Atmwhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Loop/Demo_do_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Loop/do_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Loop/while1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java/operator/incerdecre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/operator/incerdecre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752479459246</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="control stmts">
+      <created>1752565583569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752565583569</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -84,7 +91,8 @@
     <MESSAGE value="variables" />
     <MESSAGE value="operator" />
     <MESSAGE value="operator1" />
-    <option name="LAST_COMMIT_MESSAGE" value="operator1" />
+    <MESSAGE value="control stmts" />
+    <option name="LAST_COMMIT_MESSAGE" value="control stmts" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
