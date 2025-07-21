@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87b1631e-29d2-489c-963c-42cd272531d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Loop/Demo_Atmwhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Loop/Demo_do_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Loop/do_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Loop/while1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Abstraction/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Abstraction/car_details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Encapsulation/Encap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Encapsulation/Encap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/OOPS/Inheritance/Hierarchical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/OOPS/Inheritance/Multilevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/OOPS/Inheritance/Single_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Polymorphism/Overloading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752565583569</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Looping">
+      <created>1752651847252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752651847252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,7 +103,8 @@
     <MESSAGE value="operator" />
     <MESSAGE value="operator1" />
     <MESSAGE value="control stmts" />
-    <option name="LAST_COMMIT_MESSAGE" value="control stmts" />
+    <MESSAGE value="Looping" />
+    <option name="LAST_COMMIT_MESSAGE" value="Looping" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
