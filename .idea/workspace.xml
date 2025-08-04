@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87b1631e-29d2-489c-963c-42cd272531d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Array/ArrayInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Array/create.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java/OOPS/Inheritance/Hierarchical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/OOPS/Inheritance/Hierarchical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java/OOPS/Inheritance/Single_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/OOPS/Inheritance/Single_Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1753084645902</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hierarchical">
+      <created>1753854282266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753854282266</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,7 +113,8 @@
     <MESSAGE value="control stmts" />
     <MESSAGE value="Looping" />
     <MESSAGE value="oops" />
-    <option name="LAST_COMMIT_MESSAGE" value="oops" />
+    <MESSAGE value="hierarchical" />
+    <option name="LAST_COMMIT_MESSAGE" value="hierarchical" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
