@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87b1631e-29d2-489c-963c-42cd272531d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Array/ReadArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java/Array/UpdateArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java/Array/UpdateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Array/UpdateArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1754292141748</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Arrau crud">
+      <created>1754378853264</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1754378853264</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,7 +128,8 @@
     <MESSAGE value="oops" />
     <MESSAGE value="hierarchical" />
     <MESSAGE value="Array  create and  insert" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array  create and  insert" />
+    <MESSAGE value="Arrau crud" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrau crud" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

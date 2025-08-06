@@ -11,6 +11,7 @@ public class UpdateArray {
         UpdateArray up=new UpdateArray();
         System.out.println("Before Update data:"+Arrays.toString(Names));
         Scanner scan=new Scanner(System.in);
+
         System.out.println("which index position:"+(Names.length-1));
         int index= scan.nextInt();
         System.out.println("You are selected position"+index +"Position values"+Names[index]);
