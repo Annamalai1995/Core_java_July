@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87b1631e-29d2-489c-963c-42cd272531d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/String/String_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java/String/Stringbuffer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Java/Array/UpdateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java/Array/UpdateArray.java" afterDir="false" />
     </list>
@@ -115,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754378853264</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Arrau crud">
+      <created>1754461885030</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1754461885030</updated>
+    </task>
+    <task id="LOCAL-00010" summary="crud">
+      <created>1754461993172</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1754461993172</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,7 +145,8 @@
     <MESSAGE value="hierarchical" />
     <MESSAGE value="Array  create and  insert" />
     <MESSAGE value="Arrau crud" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrau crud" />
+    <MESSAGE value="crud" />
+    <option name="LAST_COMMIT_MESSAGE" value="crud" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
